@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 8c955dc165c45cb45ab5cb1bfd9dd3bb
+timeCreated: 1492451774
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - laser: {fileID: 8300000, guid: ef4be75b3871fec488d299b414d23739, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

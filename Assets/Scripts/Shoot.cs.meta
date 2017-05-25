@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 1aa8efbeb4237c447a98564edf2a7f6a
+timeCreated: 1492108388
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - beam: {fileID: 1134949611690448, guid: 4fb9005780e9d304bb4c3d5898402dde, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
